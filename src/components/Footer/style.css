@@ -1,0 +1,31 @@
+.footer {
+  min-height: 100px;
+  background: #E5E5E5;
+  /* position: relative; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .footer p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #B8B8B8;
+} */
+
+.copyright-text {
+  color: black;
+  font-size: 18px;
+  font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';;
+  align-items: center;
+}
+
+.resumeText,
+.resumeText:hover {
+    color: black
+}
+
+
